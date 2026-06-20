@@ -43,7 +43,14 @@ Discount impact on products
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/47ec5787-3623-41df-a5c8-d9cd2a64d059" />
 
-4️⃣ Summary & Insights
+4️⃣ Chartwise Transaction
+
+
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/6161b964-69af-4916-8d59-821d47536715" />
+
+
+Summary & Insights
 
 Key business insights generated from the dashboard:
 
